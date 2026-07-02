@@ -1,0 +1,9 @@
+# APIキーや個人情報を含むファイルを除外
+*.env
+.env
+__pycache__/
+*.pyc
+
+# 議事録・要約結果(個人情報が含まれる可能性)
+gijiroku.txt
+summary.txt
