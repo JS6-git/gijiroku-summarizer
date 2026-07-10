@@ -18,3 +18,6 @@
 1. pip install anthropic を実行する
 2. week2_tool.pyのapi_keyに自分のAPIキーを入れる
 3. gijiroku.txtに議事録を貼り付けて実行する
+
+## 関連記事
+- [Claude APIで議事録要約ツールを作ってみた（Zenn）](https://zenn.dev/js6_dev/articles/77c3bf9877a571)
